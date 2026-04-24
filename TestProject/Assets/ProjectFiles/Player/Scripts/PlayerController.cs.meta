@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed2bb84521ff0d44cab37c33cd30acbe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - promptText: {instanceID: 0}
+  - config: {fileID: 11400000, guid: 60fa8317af88dfc4c9028c83ca7b830a, type: 2}
+  - characterController: {instanceID: 0}
+  - cameraTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
